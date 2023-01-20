@@ -1,0 +1,49 @@
+{
+  "kind": "collectionType",
+  "collectionName": "download_apps",
+  "info": {
+    "singularName": "download-app",
+    "pluralName": "download-apps",
+    "displayName": "downloadApp"
+  },
+  "options": {
+    "draftAndPublish": true
+  },
+  "pluginOptions": {},
+  "attributes": {
+    "title": {
+      "type": "string"
+    },
+    "secondTitle": {
+      "type": "string"
+    },
+    "subtitle": {
+      "type": "string"
+    },
+    "subtitleTwo": {
+      "type": "string"
+    },
+    "subtitleThree": {
+      "type": "string"
+    },
+    "descriptionOne": {
+      "type": "string"
+    },
+    "descriptionTwo": {
+      "type": "string"
+    },
+    "descriptionThree": {
+      "type": "string"
+    },
+    "mockup": {
+      "allowedTypes": [
+        "images",
+        "files",
+        "videos",
+        "audios"
+      ],
+      "type": "media",
+      "multiple": false
+    }
+  }
+}

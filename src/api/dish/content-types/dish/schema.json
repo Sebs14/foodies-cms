@@ -1,0 +1,21 @@
+{
+  "kind": "singleType",
+  "collectionName": "dishes",
+  "info": {
+    "singularName": "dish",
+    "pluralName": "dishes",
+    "displayName": "dish"
+  },
+  "options": {
+    "draftAndPublish": true
+  },
+  "pluginOptions": {},
+  "attributes": {
+    "buttonNext": {
+      "type": "string"
+    },
+    "buttonPrev": {
+      "type": "string"
+    }
+  }
+}
