@@ -64,6 +64,10 @@ npx strapi export --file ../foodiesDB --no-encrypt
 ok, on this command line we use the flag --file in order to give a name to the file we are 
 exporting, and also we can see the --no-encrypt flag and it is basically used to not encrypt the file!
 
+### `change config on STRAPI`
+
+Now that we have imported the database we need to go into de settings option on our strapi, then on the USERS & PERMISSIONS PLUGIN section we look for ROLES, then we hit the PUBLIC option and you need mark on each collection created the find option and enable the checkbox, once everything is checked and done, on the top right corner you'll see that there is a save button, you need to click it and then you´re ready to go.
+
 # Wanted to continue with foodies?
 
 in order to see how this project works on the foodies App follow me and check the feature branch on this 
