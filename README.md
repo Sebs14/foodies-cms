@@ -1,4 +1,3 @@
-
 # Foodies CMS 🍔🍟
 
 Foodies it is an application where you can look for restaurant locations and food that
@@ -38,6 +37,10 @@ npm run build
 # or
 yarn build
 ```
+### `download the dump and uploads`
+
+Right now the project it is empty so you'll have to download a dump file wich we are going to import later to this project and also you´ll have to download a file called uploads to get the images of this project.
+in order to download this files go to this [drive](https://drive.google.com/drive/folders/1EivZFmZrf668ONfUQAt3axhBe1SAc9XO?usp=share_link) file and download them
 
 ### `import Data Base`
 
